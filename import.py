@@ -5,7 +5,7 @@
 
 
 def add_module(a: int, b: int):
-    return a + b
+    return sum(a + b)
 
 
 add_module(1, 2)
